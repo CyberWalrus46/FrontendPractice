@@ -1,0 +1,168 @@
+{
+  "openapi": "3.0.4",
+  "info": { },
+  "paths": {
+    "/api/ControllersGet/categories": {
+      "get": {
+        "tags": [
+          "ControllersGet"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ControllersGet/news/{categoryTitle}": {
+      "get": {
+        "tags": [
+          "ControllersGet"
+        ],
+        "parameters": [
+          {
+            "name": "categoryTitle",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ControllersGet/news": {
+      "get": {
+        "tags": [
+          "ControllersGet"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ControllersGet/comments/{newsId}": {
+      "get": {
+        "tags": [
+          "ControllersGet"
+        ],
+        "parameters": [
+          {
+            "name": "newsId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ControllersPost/categories/{title}": {
+      "post": {
+        "tags": [
+          "ControllersPost"
+        ],
+        "parameters": [
+          {
+            "name": "title",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ControllersPost/news/{categoryId}&{title}&{text}": {
+      "post": {
+        "tags": [
+          "ControllersPost"
+        ],
+        "parameters": [
+          {
+            "name": "categoryId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "title",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          },
+          {
+            "name": "text",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/ControllersPost/comments/{newsId}&{text}": {
+      "post": {
+        "tags": [
+          "ControllersPost"
+        ],
+        "parameters": [
+          {
+            "name": "newsId",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string",
+              "format": "uuid"
+            }
+          },
+          {
+            "name": "text",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    }
+  },
+  "components": { }
+}
