@@ -1,0 +1,133 @@
+# VS Code специфичные файлы
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# ASP.NET Core
+bin/
+obj/
+*.user
+*.suo
+*.cache
+*.csproj.user
+*.ncrunchproject
+*.dotCover
+*.pidb
+*.vs/
+*.swp
+*~
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Bb]in/
+[Oo]bj/
+[Ll]og/
+[Ll]ogs/
+
+# NuGet packages
+.nuget/
+*.nupkg
+nuget.exe
+
+# ASP.NET Core build output
+/wwwroot/dist/
+/out/
+
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-debug.log*
+yarn-error.log*
+
+# Frontend build artifacts
+dist/
+build/
+*.js.map
+*.css.map
+*.tsbuildinfo
+
+# Runtime data
+pids/
+*.pid
+*.seed
+*.pid.lock
+
+# Coverage directory used by tools like istanbul
+coverage/
+*.lcov
+
+# Dependency directories
+jspm_packages/
+
+# Optional npm cache directory
+.npm
+
+# Optional eslint cache
+.eslintcache
+
+# Optional REPL history
+.node_repl_history
+
+# Output of 'npm pack'
+*.tgz
+
+# Yarn Integrity file
+.yarn-integrity
+
+# dotenv environment variables file
+.env
+.env.test
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# IDE files
+.idea/
+*.swp
+*.swo
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Database
+*.mdf
+*.ldf
+*.sdf
+
+# Backup folder
+Backup/
+
+# Temporary files
+*.tmp
+*.temp
+
+# Logs
+*.log
+
+# Runtime data for ASP.NET
+App_Data/
+
+# Project specific (добавьте свои пути если нужно)
+# /appsettings.Development.json
+# /appsettings.Production.json
+/ClientApp/dist/
+/ClientApp/node_modules/

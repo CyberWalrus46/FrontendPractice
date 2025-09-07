@@ -10,6 +10,6 @@ namespace BackendToFront.Domains
         ICollection<IComment> GetCommentaries();
         ICollection<IComment> GetCommentariesByNewsId(Guid _newsId);
         ICollection<INews> GetNews();
-        INews? GetNewsByCategoryTitle(string categoryTitle);
+        ICollection<INews>? GetNewsByCategoryTitle(string categoryTitle);
     }
 }

@@ -33,12 +33,12 @@ namespace BackendToFront.Domains
         public ICollection<IComment> GetCommentaries() => this.commentaries;
 
 
-        public INews? GetNewsByCategoryTitle(string categoryTitle)
+        public ICollection<INews>? GetNewsByCategoryTitle(string categoryTitle)
         {
             var categoryId = categories.Where(x => x.Title == categoryTitle).Select(x => x.Id).FirstOrDefault();
 
             if (categoryId != Guid.Empty)
-                return this.news.FirstOrDefault(x => x.CategoryId == categoryId);
+                return this.news.Where(x => x.CategoryId == categoryId).ToList();
 
             return null;
         }

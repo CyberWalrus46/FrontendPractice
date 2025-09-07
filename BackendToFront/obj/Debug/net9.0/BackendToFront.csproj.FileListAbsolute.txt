@@ -34,3 +34,40 @@ C:\Users\Vakhrushev_MA\Desktop\Обучение\Практическое зад�
 C:\Users\Vakhrushev_MA\Desktop\Обучение\Практическое задание по фронту\BackendToFront\obj\Debug\net9.0\BackendToFront.pdb
 C:\Users\Vakhrushev_MA\Desktop\Обучение\Практическое задание по фронту\BackendToFront\obj\Debug\net9.0\BackendToFront.genruntimeconfig.cache
 C:\Users\Vakhrushev_MA\Desktop\Обучение\Практическое задание по фронту\BackendToFront\obj\Debug\net9.0\ref\BackendToFront.dll
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\appsettings.Development.json
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\appsettings.json
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\BackendToFront.staticwebassets.endpoints.json
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\BackendToFront.exe
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\BackendToFront.deps.json
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\BackendToFront.runtimeconfig.json
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\BackendToFront.dll
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\BackendToFront.pdb
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Работа\FrontendPractice\BackendToFront\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.csproj.AssemblyReference.cache
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.GeneratedMSBuildEditorConfig.editorconfig
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.AssemblyInfoInputs.cache
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.AssemblyInfo.cs
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.csproj.CoreCompileInputs.cache
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.MvcApplicationPartsAssemblyInfo.cs
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.MvcApplicationPartsAssemblyInfo.cache
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.sourcelink.json
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\scopedcss\bundle\BackendToFront.styles.css
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets.build.json
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets.development.json
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets\msbuild.BackendToFront.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets\msbuild.BackendToFront.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets\msbuild.build.BackendToFront.props
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.BackendToFront.props
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.BackendToFront.props
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendT.D1EC52FD.Up2Date
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.dll
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\refint\BackendToFront.dll
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.pdb
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\BackendToFront.genruntimeconfig.cache
+C:\Работа\FrontendPractice\BackendToFront\obj\Debug\net9.0\ref\BackendToFront.dll

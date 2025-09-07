@@ -1,54 +1,54 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\",
+  "WorkspaceRootPath": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\backendtofront.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:backendtofront.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\controllers\\controllerspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:controllers\\controllerspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\controllers\\controllersget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:controllers\\controllersget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\domains\\datahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\domains\\datahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\datahub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\controllers\\controllersget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:controllers\\controllersget.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\backendtofront.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\backendtofront.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:backendtofront.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\domains\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\controllers\\controllerspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:controllers\\controllerspost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\domains\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\comment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\domains\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\domains\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\news.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\domains\\inews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\domains\\inews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\inews.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\domains\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\domains\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:domains\\icomment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\\u0440\u0430\u0431\u043E\u0442\u0430\\frontendpractice\\backendtofront\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|c:\\users\\vakhrushev_ma\\desktop\\\u043E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u043F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\backendtofront\\backendtofront.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{4A12566A-DFE5-4257-AAF0-F35E17D29977}|BackendToFront.csproj|solutionrelative:backendtofront.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     }
   ],
   "DocumentGroupContainers": [
@@ -61,129 +61,144 @@
           "SelectedChildIndex": 8,
           "Children": [
             {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-09-05T05:35:48.572Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "INews.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\INews.cs",
-              "RelativeDocumentMoniker": "Domains\\INews.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\INews.cs",
-              "RelativeToolTip": "Domains\\INews.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T05:35:36.819Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 9,
+              "Title": "INews.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\INews.cs",
+              "RelativeDocumentMoniker": "Domains\\INews.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\INews.cs",
+              "RelativeToolTip": "Domains\\INews.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-05T05:35:36.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "IComment.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\IComment.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\IComment.cs",
               "RelativeDocumentMoniker": "Domains\\IComment.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\IComment.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\IComment.cs",
               "RelativeToolTip": "Domains\\IComment.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T05:35:30.797Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T05:35:30.797Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "ControllersGet.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Controllers\\ControllersGet.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Controllers\\ControllersGet.cs",
               "RelativeDocumentMoniker": "Controllers\\ControllersGet.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Controllers\\ControllersGet.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Controllers\\ControllersGet.cs",
               "RelativeToolTip": "Controllers\\ControllersGet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAACEAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T06:52:58.064Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DataHub.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\DataHub.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\DataHub.cs",
               "RelativeDocumentMoniker": "Domains\\DataHub.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\DataHub.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\DataHub.cs",
               "RelativeToolTip": "Domains\\DataHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAACoAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T07:30:49.999Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "News.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\News.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\News.cs",
               "RelativeDocumentMoniker": "Domains\\News.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\News.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\News.cs",
               "RelativeToolTip": "Domains\\News.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T07:09:27.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T07:09:27.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Comment.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\Comment.cs",
+              "RelativeDocumentMoniker": "Domains\\Comment.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\Comment.cs",
+              "RelativeToolTip": "Domains\\Comment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T07:10:05.853Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Comment.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\Comment.cs",
-              "RelativeDocumentMoniker": "Domains\\Comment.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\Comment.cs",
-              "RelativeToolTip": "Domains\\Comment.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T07:10:05.853Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Category.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\Category.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\Category.cs",
               "RelativeDocumentMoniker": "Domains\\Category.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Domains\\Category.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Domains\\Category.cs",
               "RelativeToolTip": "Domains\\Category.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-04T07:09:50.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-04T07:09:50.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "BackendToFront.csproj",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\BackendToFront.csproj",
+              "RelativeDocumentMoniker": "BackendToFront.csproj",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\BackendToFront.csproj",
+              "RelativeToolTip": "BackendToFront.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-09-04T07:08:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Program.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Program.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAAACgAAAAcAAAAAAAAAA==",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-04T07:02:10.598Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-09-05T05:35:48.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "BackendToFront.http",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\BackendToFront.http",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\BackendToFront.http",
               "RelativeDocumentMoniker": "BackendToFront.http",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\BackendToFront.http",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\BackendToFront.http",
               "RelativeToolTip": "BackendToFront.http",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
@@ -192,29 +207,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ControllersPost.cs",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Controllers\\ControllersPost.cs",
+              "DocumentMoniker": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Controllers\\ControllersPost.cs",
               "RelativeDocumentMoniker": "Controllers\\ControllersPost.cs",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\Controllers\\ControllersPost.cs",
+              "ToolTip": "C:\\\u0420\u0430\u0431\u043E\u0442\u0430\\FrontendPractice\\BackendToFront\\Controllers\\ControllersPost.cs",
               "RelativeToolTip": "Controllers\\ControllersPost.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-05T06:24:22.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-05T06:24:22.472Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1040,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "BackendToFront.csproj",
-              "DocumentMoniker": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\BackendToFront.csproj",
-              "RelativeDocumentMoniker": "BackendToFront.csproj",
-              "ToolTip": "C:\\Users\\Vakhrushev_MA\\Desktop\\\u041E\u0431\u0443\u0447\u0435\u043D\u0438\u0435\\\u041F\u0440\u0430\u043A\u0442\u0438\u0447\u0435\u0441\u043A\u043E\u0435 \u0437\u0430\u0434\u0430\u043D\u0438\u0435 \u043F\u043E \u0444\u0440\u043E\u043D\u0442\u0443\\BackendToFront\\BackendToFront.csproj",
-              "RelativeToolTip": "BackendToFront.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-09-04T07:08:16.794Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
             }
           ]
         }

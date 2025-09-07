@@ -13,12 +13,17 @@ let currentCategory = 'all';
         // Загрузка категорий при запуске
 document.addEventListener('DOMContentLoaded', () => {
     loadCategories();
-    // loadNews();
+    loadNews();
 });
 
+
 async function loadCategories() {
-    const response = await fetch('${API_BASE}ControllersGet/categories');
+    console.log("Start of loading categories");
+
+    const response = await fetch(API_BASE + 'ControllersGet/categories');
     const categories = await response.json();
+
+    console.log(categories);
 
     while (categoriesList.children.length > 1) {
                     categoriesList.removeChild(categoriesList.lastChild);
@@ -27,14 +32,14 @@ async function loadCategories() {
     // Добавляем категории в боковую панель
     categories.forEach(category => {
         const li = document.createElement('li');
-        li.textContent = category.Title;
-        li.dataset.category = category.Id;
+        li.textContent = category.title;
+        li.dataset.category = category.id;
         categoriesList.appendChild(li);
                     
         // Добавляем категорию в выпадающий список формы
         const option = document.createElement('option');
-        option.value = category.Id;
-        option.textContent = category.Title;
+        option.value = category.id;
+        option.textContent = category.title;
         categorySelect.appendChild(option);
     });
 
@@ -43,12 +48,40 @@ async function loadCategories() {
             // Убираем активный класс у всех элементов
             document.querySelectorAll('.categories li').forEach(li => {
                 li.classList.remove('active');
-            })
-        });
-        // Добавляем активный класс к выбранному элементу
-        item.classList.add('active');
+            });
+                    // Добавляем активный класс к выбранному элементу
+            item.classList.add('active');
 
-        currentCategory = item.dataset.category;
-        // loadNews();
+            currentCategory = item.textContent;
+            loadNews();
+        });
     });
+}
+
+async function loadNews() {
+    const response = currentCategory === 'all' ? await fetch(API_BASE + 'ControllersGet/news') : 
+                                                await fetch(API_BASE + 'ControllersGet/news/' + decodeURIComponent(currentCategory));
+
+    const news = await response.json();
+
+    console.log(news);
+
+    while (newsContainer.children.length > 0)
+        newsContainer.removeChild(newsContainer.lastChild);
+
+    news.forEach(val => {
+        const newsCard = document.createElement('div');
+        newsCard.className = 'newsCard';
+        
+        const newsTitle = document.createElement('label');
+        newsTitle.textContent = val.title;
+        
+        const newsText = document.createElement('p');
+        newsText.textContent = val.text;
+
+        newsCard.append(newsTitle, newsText);
+        newsContainer.append(newsCard);
+    });
+
+
 }

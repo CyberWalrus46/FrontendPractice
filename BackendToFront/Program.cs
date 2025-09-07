@@ -35,7 +35,7 @@ app.UseSwaggerUI(c =>
     c.RoutePrefix = string.Empty; // Открывать по корневому URL
 });
 
-
+app.UseCors("AllowAll");
 // Configure the HTTP request pipeline.
 
 //app.UseHttpsRedirection();
