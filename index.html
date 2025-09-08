@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="styles.css">
     <title>Новости</title>
 </head>
 <body>
@@ -11,9 +11,15 @@
     <div class="sidebar">
         <h2>Категории</h2>
         <ul class="categories">
-            <li class="active" data-category="all">Все новости</li>
+            <li class="active" data-category="Все новости">Все новости</li>
             <!-- Категории будут загружены через API -->
         </ul>
+
+        <!-- Добавьте эту кнопку для переключения темы -->
+        <button class="theme-toggle-btn" id="themeToggle">
+            🌙 Тёмная тема
+        </button>
+        
         <button class="add-news-btn" id="addNewsBtn">Добавить новость</button>
     </div>
     
@@ -21,7 +27,6 @@
     <div class="content">
         <div class="news-container">
             <!-- Новости будут загружены через API -->
-            <div class="loading">Загрузка новостей...</div>
         </div>
     </div>
     

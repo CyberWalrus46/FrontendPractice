@@ -6,20 +6,19 @@ namespace BackendToFront.Domains
 {
     public class DataHub : IDataHub
     {
-        private ICollection<ICategory> categories;
+        private ICollection<ICategory> categories =  new Collection<ICategory>();
 
-        private ICollection<INews> news;
+        private ICollection<INews> news = new Collection<INews>();
 
-        private ICollection<IComment> commentaries;
+        private ICollection<IComment> commentaries = new Collection<IComment>();
 
-        public DataHub()
+        public void AddCategory(ICategory _category)
         {
-            this.categories = new Collection<ICategory>();
-            this.news = new Collection<INews>();
-            this.commentaries = new Collection<IComment>();
-        }
+            if (this.categories.Any(x => x.Title == _category.Title))
+                throw new ArgumentException("Категория с таким наименованием уже существует");
 
-        public void AddCategory(ICategory _category) => this.categories.Add(_category);
+            this.categories.Add(_category);
+        }
 
         public void AddNews(INews _news) => this.news.Add(_news);
 

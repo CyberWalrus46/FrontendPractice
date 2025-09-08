@@ -31,13 +31,19 @@ namespace BackendToFront.Controllers
         }
 
         [HttpPost("news/{categoryId}&{title}&{text}")]
-        public IActionResult CreateCategory(Guid categoryId, string title, string text)
+        public IActionResult CreateCategory(string categoryId, string title, string text)
         {
             try
             {
-                datahub.AddNews(new News(categoryId, title, text));
+                Guid.TryParse(Uri.UnescapeDataString(categoryId), out Guid category_id);
+                if (category_id != Guid.Empty)
+                {
+                    datahub.AddNews(new News(category_id, title, text));
 
-                return Ok();
+                    return Ok();
+                }
+                else
+                    return BadRequest($"Неверный GUID: {categoryId}");
             }
             catch (Exception ex)
             {

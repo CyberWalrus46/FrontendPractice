@@ -32,7 +32,7 @@ namespace BackendToFront.Controllers
         public IActionResult GetNewsByCategory(string categoryTitle)
         {
             var news = datahub.GetNewsByCategoryTitle(categoryTitle);
-            if (news != null) 
+            if (news != null)
                 return Ok(news);
 
             return NoContent();
@@ -49,13 +49,19 @@ namespace BackendToFront.Controllers
         }
 
         [HttpGet("comments/{newsId}")]
-        public IActionResult GetCommentsByNewsId(Guid newsId)
+        public IActionResult GetCommentsByNewsId(string newsId)
         {
-            var comments = datahub.GetCommentariesByNewsId(newsId);
-            if (comments != null)
-                return Ok(comments);
+            Guid.TryParse(Uri.EscapeDataString(newsId), out Guid news_id);
+            if (news_id != Guid.Empty)
+            {
+                var comments = datahub.GetCommentariesByNewsId(news_id);
+                if (comments != null)
+                    return Ok(comments);
 
-            return NoContent();
+                return NoContent();
+            }
+            else
+                return BadRequest($"Неверный GUID: {newsId}");
         }
     }
 }
